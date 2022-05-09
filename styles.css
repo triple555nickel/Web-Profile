@@ -10,6 +10,20 @@ h1 {
     color: blue;
 }
 
+#education {
+    color: rgb(97, 172, 55);
+    font-size: x-large;
+    font-weight: bold;
+
+}
+#educationlist{
+    border-style: solid;
+    border-color: rgb(37, 160, 64);
+    border-radius: 10px;
+    padding: 30px;
+    width: fit-content;
+}
+
 #Skillsets {
     color: red;
     font-size: x-large;
@@ -20,7 +34,8 @@ h1 {
         border-style: solid;
         border-color: blue;
         border-radius: 10px;
-        padding: 10px;
+        padding: 20px;
+        width: fit-content;
 }
 
 #skill-list {
@@ -28,6 +43,7 @@ h1 {
     border-color: red;
     border-radius: 10px;
     padding: 30px;
+    width: fit-content;
 }
 
 #biography {
