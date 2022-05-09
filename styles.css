@@ -28,7 +28,22 @@ button {
     text-align: center;
     color: black;
     font-size: large;
+   }
+
+.socialcontainer {
+    height: auto;
+    width: fit-content;
+    padding: 16px;
+    background: rgb(100, 3, 100);
+    border: 4px solid indigo;
+    display: flex; 
 }
+
+.link {
+    width: auto;
+    height: auto;
+    border: 4px solid darkslategray;
+    background: skyblue;
 
 #intro {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
