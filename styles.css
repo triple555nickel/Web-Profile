@@ -24,6 +24,11 @@ div {
     font-size: 18px
 }
 
+#social {
+    flex-direction: column;
+    -ms-flex-align: center;
+}
+
 #intro {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
