@@ -7,3 +7,10 @@ h1 {
     font-size: larger;
     font-weight: bold;
 }
+
+#bio {
+        border-style: solid;
+        border-color: blue;
+        border-radius: 10px;
+        padding: 10px;
+}
