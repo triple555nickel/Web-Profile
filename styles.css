@@ -20,6 +20,10 @@ p {
     width: 900px;
 }
 
+div {
+    font-size: 18px
+}
+
 #intro {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
@@ -37,6 +41,7 @@ p {
     border-radius: 10px;
     padding: 30px;
     width: fit-content;
+    font-size: 18px
 }
 
 #Skillsets {
@@ -54,6 +59,7 @@ p {
         flex: content;
         flex-direction: row;
         width: 1000px;
+        font-size: 18px
 }
 
 #skill-list {
@@ -62,6 +68,7 @@ p {
     border-radius: 10px;
     padding: 30px;
     width: fit-content;
+    font-size: 18px;
 }
 
 #biography {
