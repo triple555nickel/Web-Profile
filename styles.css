@@ -24,9 +24,10 @@ div {
     font-size: 18px
 }
 
-#social {
-    flex-direction: column;
-    -ms-flex-align: center;
+button {
+    text-align: center;
+    color: black;
+    font-size: large;
 }
 
 #intro {
