@@ -140,10 +140,10 @@ a {text-decoration: none;
 #firstcontainer {
    border-style: solid;
    border-color: black;
-   background-image: url(https://i.redd.it/yw47wzbtucj21.jpg);
-   background-size: contain;
+   background-image: url(https://c4.wallpaperflare.com/wallpaper/628/767/802/firewatch-video-game-art-minimalism-simple-hd-wallpaper-thumb.jpg);
+   background-size: cover;
    flex-direction: column;
-   width: fit-content;
+   width: 900px;
    padding: 10px;
    border-radius: 15px;
    align-content: center;
