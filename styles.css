@@ -140,7 +140,8 @@ a {text-decoration: none;
 #firstcontainer {
    border-style: solid;
    border-color: black;
-   background-image: url(https://images.unsplash.com/photo-1568145675395-66a2eda0c6d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2F0ZXIlMjB0ZXh0dXJlfGVufDB8fDB8fA%3D%3D&w=1000&q=80);
+   background-image: url(https://i.redd.it/yw47wzbtucj21.jpg);
+   background-size: contain;
    flex-direction: column;
    width: fit-content;
    padding: 10px;
