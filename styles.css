@@ -28,15 +28,17 @@ a {text-decoration: none;
 
 
 .socialcontainer {
-    height: auto;
+    flex: auto;
+    justify-content: center;
+    align-content: center;
+    height: 51px;
     width: 500px;
     padding: 16px;
-    background: rgb(100, 3, 100);
-    border: 4px solid indigo;
+    background: rgb(0, 0, 0);
+    border: 4px solid rgb(130, 0, 0);
     display: flex;
-    justify-content: center;
     gap: 50px;
-    border-radius: 25px;
+    border-radius: 25px;  
 }
 
 .linkedin {
@@ -51,15 +53,17 @@ a {text-decoration: none;
     border: none;
     border-radius: 10px;
     cursor: pointer;
+    align-content: center;
+    justify-content: center;
 }
 
 .facebook {
     background-color: rgb(25, 94, 241);
     color: white;
-    width: 100px;
-    height: 20px;
+    width: 125px;
+    height: 30px;
     padding: 7px;
-    font-size: 20px;
+    font-size: 25px;
     font-family: sans-serif;
     font-weight: bold;
     text-align: center;
